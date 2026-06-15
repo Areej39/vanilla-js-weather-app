@@ -44,7 +44,7 @@ A simple, responsive weather application that fetches real-time weather data for
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Areej39/vanilla-js-weather-app
 ```
 
 ### Open the Project
@@ -70,6 +70,7 @@ weather-app/
 ├── index.html
 ├── style.css
 ├── script.js
+├── screenshot.png
 └── README.md
 ```
 
@@ -99,7 +100,6 @@ data.wind.speed
 
 ## Demo
 ![Weather App UI](screenshot.png)
-Add a screenshot of the application after running the project.
 
 ## Author
 
