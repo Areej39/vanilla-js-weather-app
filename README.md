@@ -98,7 +98,7 @@ data.wind.speed
 ```
 
 ## Demo
-![screenshot.png]
+![Weather App UI](screenshot.png)
 Add a screenshot of the application after running the project.
 
 ## Author
