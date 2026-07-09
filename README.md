@@ -39,6 +39,10 @@ A simple, responsive weather application that fetches real-time weather data for
    * Weather Icon
 5. Errors such as invalid city names or failed requests are handled gracefully.
 
+### Live Demo
+
+https://areej39.github.io/vanilla-js-weather-app/
+
 ## Setup and Run
 
 ### Clone the Repository
